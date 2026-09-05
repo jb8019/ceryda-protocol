@@ -83,13 +83,15 @@ The purpose of publishing this repository and the Ceryda Concept Paper is to:
 
 ## Concept Paper
 
-**Ceryda Concept Paper v0.1**
+### Ceryda Concept Paper v0.1
 
-*A Trust and Verification Protocol for Decentralized Compute Infrastructure*
+**A Trust and Verification Protocol for Decentralized Compute Infrastructure**
 
-The full concept paper will be published in this repository.
+The Ceryda Concept Paper presents the initial architecture, objectives, verification model, and long-term vision for the protocol.
 
-## Looking for Feedback
+📄 **[Read the Ceryda Concept Paper v0.1](Ceryda_Concept_Paper_v0.1.pdf)**
+
+Ceryda is currently in the research and concept stage. This paper is being published to encourage technical review, criticism, discussion, and collaboration before significant development resources are committed.
 
 Ceryda is seeking feedback from:
 
